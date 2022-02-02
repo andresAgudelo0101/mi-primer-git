@@ -1,3 +1,11 @@
 body {
-  background-color: rebeccapurple;
+  background-color: rgb(227, 214, 241);
+}
+
+.userList {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 60%);
+  font-size: 1.6rem;
+  color: rgb(42, 46, 41);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
